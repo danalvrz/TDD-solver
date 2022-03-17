@@ -41,7 +41,7 @@ describe 'Solver' do
     end
 
     it 'returns number given if is not divisible by 3 nor 5' do
-        expect(@solver.fizz_buzz(7)).to eq 7
+      expect(@solver.fizz_buzz(7)).to eq 7
     end
   end
 end

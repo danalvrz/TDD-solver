@@ -15,5 +15,7 @@ class Solver
     word.reverse
   end
 
-  def fizz_buzz(number); end
+  def fizz_buzz(number)
+    'fizz' if (number % 3).zero?
+  end
 end

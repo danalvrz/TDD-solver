@@ -11,7 +11,7 @@ class Solver
   end
 
   def reverser(word); 
-  
+  word.reverse
   end
 
   def fizz_buzz(nnumber); end

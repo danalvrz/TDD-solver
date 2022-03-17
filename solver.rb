@@ -1,11 +1,7 @@
 class Solver
-    def factorial(n)
-    end
+  def factorial(number); end
 
-    def reverser(word)
-    end
+  def reverser(word); end
 
-    def fizz_buzz(n)
-    end
-    
+  def fizz_buzz(nnumber); end
 end
